@@ -31,8 +31,7 @@
 3. **Run tests:**
    ```bash
    pytest / python -m pytest
-   # If 'pytest' is not recognized, use:
-   python -m pytest
+  
    ```
 <!-- 
 ## Example Usage
