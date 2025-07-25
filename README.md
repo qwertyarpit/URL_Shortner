@@ -15,7 +15,7 @@
 - Redirect to original URL (`GET /<short_code>`)
 - Get analytics (`GET /api/stats/<short_code>`)
 - All endpoints return JSON responses
-- Error handling for invalid input and unknown codes
+- Error handling for invalid input
 
 ## Running the Application
 
@@ -58,14 +58,9 @@ curl http://localhost:5000/api/stats/abc123
 
 ## AI Usage
 
-ChatGPT  for generating some test cases int test file
+ChatGPT for generating some test cases in test file
 
-## Submission
 
-1. Ensure all tests pass
-2. Zip your solution
-3. (Optional) Add notes about your approach
-4. Share the repository link as instructed
 
    ```
 
