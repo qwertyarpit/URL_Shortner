@@ -60,8 +60,3 @@ curl http://localhost:5000/api/stats/abc123
 
 ChatGPT for generating some test cases in test file
 
-
-
-   ```
-
-   ```
